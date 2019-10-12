@@ -1,9 +1,9 @@
 {
   "contacts": {
-    "new_contact": "NEW CONTACT",
-    "all_contacts": "ALL CONTACTS",
-    "back_to_mail": "BACK TO MAIL",
-    "edit_tooltip": "Click on Name or Email to edit an item.",
+    "new_contact": "NUOVO CONTATTO",
+    "all_contacts": "TUTTI I CONTATTI",
+    "back_to_mail": "TORNA ALLA POSTA",
+    "edit_tooltip": "Fai clic su Nome o Email per modificare un elemento.",
     "delete_tooltip": "Delete selected contacts.",
     "details": "Contact Details",
     "phone2": "Phone2",
